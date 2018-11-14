@@ -1,4 +1,14 @@
-Lambada scrapers is a collection of scrapers from various Exodus forks.
+[B]Last Update:[/B] Nov 14, 2018
+
+plugin.video.exodusredux - 1.0.6
+-Lambda Scrapers set as default provider
+script.module.exodusredux - 1.0.8
+- Resume fix for Kodi 18
+- Removed Channels
+script.module.lambdascrapers - 1.7.0
+- Remove nonperforming scraper from defaults
+- Lambdascrapers module as default provider
+- Scraper fixes
 
 [B]Important!![/B]  Lambda Scrapers should be enabled by default.  To double-check whether Lambda Scrapers is enabled, follow these instructions:
 
