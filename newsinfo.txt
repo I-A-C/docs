@@ -1,27 +1,14 @@
-[B]Last Update:[/B] Nov 14, 2018
-plugin.video.exodusredux - 1.0.6
-[I]-Lambda Scrapers set as default provider[/I]
-[I]- Resume fix for Kodi 18[/I]
-script.module.exodusredux - 1.0.8
-[I]- Resume fix for Kodi 18[/I]
-[I]- Removed Channels[/I]
-script.module.lambdascrapers - 1.7.0
-[I]- Remove nonperforming scraper from defaults[/I]
-[I]- Lambdascrapers module as default provider[/I]
-[I]- Scraper fixes[/I]
+[B]Last Update:[/B] Mar, 2019
 
-[B]Important!![/B]  Lambda Scrapers should be enabled by default.  To double-check whether Lambda Scrapers is enabled, follow these instructions:
+plugin.video.exodusredux - 2.0.0
+[I]- Rebased[/I]
+[I]- No LiveTV!! No Lists!![/I]
 
-1. From the Home Menu, go to Tools > SETTINGS: Providers
-2. "Choose Module Provider Source" should be set to "Lambda Scrapers"
-3. Open Lambda Scrapers Settings 
-4. In the "Providers" section, Lambdascrapers should be selected from the "Choose Module Scraper" pull-down menu.
-5. In the "Providers", "Foreign" and "Debrid" (if using a debrid service) sections, you can also enable/disable specific providers. 
+script.module.exodusredux - 2.0.0
+[I]- Rebased[/I]
 
-If you want to use a different Module Scraper
-6. In the "Providers" section, select the scraper set you want to use from the "Choose Module Scraper" pull-down menu.
-7. In the "Providers" section, select "Enable ALL Providers(for current Module)".  This enables all providers for the current module in addition to any previously enabled providers.
+script.module.lambdascrapers - 2.0.0
+[I]- Rebased[/I]
 
-Note: "Foreign" and "Debrid" are only available with Lambdascrapers
-Tip: Before selecting "Lambda Scrapers Default Providers", it is a good idea to "Disable All Providers" first. 
-Tip: When switching Module Scrapers it is good idea to "Disable All Providers" first.
+
+[B]Important!![/B] Reset ExodusRedux settings to Defaults if you've previously installed ExodusRedux or experiencing issues.
