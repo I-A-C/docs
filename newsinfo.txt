@@ -1,14 +1,15 @@
 [B]Last Update:[/B] Mar, 2019
 
-plugin.video.exodusredux - 2.0.0
-[I]- Rebased[/I]
-[I]- No LiveTV!! No Lists!![/I]
+plugin.video.exodusredux - 2.0.1
+[I]- Replaced Lambdascraper with Openscrapers[/I]
 
-script.module.exodusredux - 2.0.0
-[I]- Rebased[/I]
+[I]- No LiveTV!! No Collections!![/I]
 
-script.module.lambdascrapers - 2.0.0
-[I]- Rebased[/I]
+script.module.exodusredux - 2.0.1
+[I]- Replaced Lambdascraper with Openscrapers[/I]
+
+script.module.openscrapers - 0.0.0.2
+[I]- Lambdascraper replacement[/I]
 
 
-[B]Important!![/B] Reset ExodusRedux settings to Defaults if you've previously installed ExodusRedux or experiencing issues.
+[B]Important!![/B] Reset ExodusRedux settings to Defaults if you are experiencing issues.
