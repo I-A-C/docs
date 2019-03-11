@@ -1,15 +1,14 @@
-[B]Last Update:[/B] Mar, 2019
+[B]Last Update:[/B] Mar 11, 2019
 
-plugin.video.exodusredux - 2.0.1
-[I]- Replaced Lambdascraper with Openscrapers[/I]
+plugin.video.exodusredux - 2.0.2
+[I]- Fix IMDb watchlists in settings[/I]
+[I]- Language Fixes via OpenScrapers[/I]
 
-[I]- No LiveTV!! No Collections!![/I]
 
-script.module.exodusredux - 2.0.1
-[I]- Replaced Lambdascraper with Openscrapers[/I]
-
-script.module.openscrapers - 0.0.0.2
-[I]- Lambdascraper replacement[/I]
+script.module.exodusredux - 2.0.2
+[I]- Fix Debrid Only playback[/I]
 
 
 [B]Important!![/B] Reset ExodusRedux settings to Defaults if you are experiencing issues.
+
+[I]- No LiveTV!![/I]
